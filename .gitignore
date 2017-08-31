@@ -27,3 +27,17 @@
 
 # SimpleCov reports
 coverage/
+
+*.DS_Store
+*.swo
+*.swp
+/.env
+/public/system
+/public/assets
+/tags
+vendor/bundle
+spec/examples.txt
+config/secrets.yml
+config/database.yml
+.idea/*
+
