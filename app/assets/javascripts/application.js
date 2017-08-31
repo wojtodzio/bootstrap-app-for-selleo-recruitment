@@ -20,5 +20,5 @@
 //= require turbolinks
 //= require bootstrap-sprockets
 //= require select2
-//= require sweetalert2/dist/sweetalert2
+//= require sweetalert2
 //= require_tree .
